@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/not ortalaması" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/notOrtalaması" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Hipotenus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/üçgen alanı bulma" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/taksi metre" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
