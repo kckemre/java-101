@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/daire ve daire diliminin alanı" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/taksi metre" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vücut kitle indeksi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manav tutar hesaplama" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
